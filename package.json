@@ -20,13 +20,5 @@
   "devDependencies": {
     "@vercel/ncc": "^0.36.1",
     "standard": "^17.0.0"
-  },
-  "standard": {
-    "ignore": [
-      "/dist/*.js"
-    ]
-  },
-  "volta": {
-    "node": "12.22.1"
   }
 }
